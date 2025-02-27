@@ -13,6 +13,6 @@ Including Features:
  - Javascript
  - CSS
 
-Copy: https://deveooo.github.io to see the result! 
+Copy this or click https://deveooo.github.io to see the result! 
 
 Note: This website isn't responsive yet.
