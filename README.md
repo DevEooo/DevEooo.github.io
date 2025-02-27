@@ -12,3 +12,5 @@ Including Features:
  - HTML
  - Javascript
  - CSS
+
+Note: This Website Isn't Responsive Yet.
