@@ -6,8 +6,6 @@ Including Features:
  - Register
  - 2 Different Dashboard ( Admin & User )
 
- Note: Database MYSQL IS NOT Included because of Data Privacy.
-
  Programming Language I've Used: 
  - PHP
  - HTML
