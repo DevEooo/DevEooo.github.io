@@ -5,6 +5,7 @@ Including Features:
  - Login 
  - Register
  - 2 Different Dashboard ( Admin & User )
+ - Information About This School ( History, Contact, Vision & Mission, etc. )
 
  Programming Language I've Used: 
  - PHP
