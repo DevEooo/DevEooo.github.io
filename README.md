@@ -7,10 +7,12 @@ Including Features:
  - 2 Different Dashboard ( Admin & User )
  - Information About This School ( History, Contact, Vision & Mission, etc. )
 
- Programming Language I've Used: 
+ Programming Language i've used: 
  - PHP
  - HTML
  - Javascript
  - CSS
 
-Note: This Website Isn't Responsive Yet.
+Copy: https://deveooo.github.io to see the result! 
+
+Note: This website isn't responsive yet.
